@@ -1,0 +1,19 @@
+.contOne {
+    border: solid green;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 24em;
+    padding-right: 24em;
+    text-size-adjust: 50;
+}
+
+#topOne {
+    border: solid green;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+img {
+    width: 100%;
+}
